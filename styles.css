@@ -1,0 +1,47 @@
+body {
+    background-color: #f5f2f1;
+    font-family:  Helvetica, Arial,sans-serif;
+}
+
+.wrapper {
+    max-width: 512px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 1,5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 0.9rem;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+    border: none;
+    margin: 0px 0px 0px 150px;
+    border: 1px solid grey;
+}
+
+.block {
+    border-top: 1px solid #c6cbc8;
+    margin-bottom: 20px;
+}
+
+p,
+ul,
+a {
+    font-size: 0.9rem;
+    font-family: calibri, Arial, sans-serif;
+    color: rgb(80,80,80);
+    font-weight: normal;
+}
+
+.block p,
+       a {
+           margin-left: 36px;
+       }
